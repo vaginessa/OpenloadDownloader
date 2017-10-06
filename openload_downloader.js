@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         openloaddownloader
 // @namespace    com.vincentmarnier.openloaddownloader
-// @version      0.1
+// @version      0.2
 // @description  Add download link to openload streaming link
 // @author       VincentMarnier
 // @include      http://openload.co/embed/*
