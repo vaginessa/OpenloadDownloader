@@ -6,6 +6,8 @@
 // @author       VincentMarnier
 // @include      http://openload.co/embed/*
 // @include      https://openload.co/embed/*
+// @include      http://oload.info/embed/*
+// @include      http://oload.info/embed/*
 // @grant        none
 // ==/UserScript==
 
